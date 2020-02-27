@@ -1,3 +1,9 @@
+//2020.2.27 c++第一次作业 简化版八皇后问题
+
+
+
+
+
 #include <iostream>
 #include<math.h>
 using namespace std;
